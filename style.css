@@ -1,0 +1,220 @@
+body {
+  background-color: white;
+  text-align: center;
+  margin: 10px;
+  font-size: 20px;
+  font-family: brandon-grotesque, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+p {
+  width: 550px;
+  margin: auto;
+  line-height: 1.5;
+  text-align: center;
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 4.5em;
+  margin: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+.prog {
+  color: #66BFBF;
+  font-family: 'Grenze Gotisch', cursive;
+  font-size: 1.4rem;
+  font-weight: normal;
+  line-height: 2px;
+}
+
+h2 {
+  color: #1e836c;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  font-family: brandon-grotesque, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h3 {
+  color: #45b29a;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-weight: 900;
+}
+
+.top {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -10px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 220px;
+  top: 220px
+}
+
+.cloud2 {
+  position: absolute;
+  left: 230px;
+  bottom: 240px;
+}
+
+.mount {
+  position: relative;
+  bottom: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  height: auto;
+  margin: 100px auto 100px auto;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+
+}
+
+
+.icon-top
+{
+border-radius: 50%;
+position: relative;
+right: 400px;
+width: 60px;
+bottom: 50px;
+margin: 0;
+border-top: 1000px;
+}
+
+
+.profile-pic {
+
+  width: 10%;
+  border-radius: 50%;
+}
+
+.secondimage {
+  width: 20%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 50px;
+  position: relative;
+  right: 40px;
+}
+
+
+
+.thirdimage {
+  width: 20%;
+  border-radius: 50%;
+  float: right;
+  position: relative;
+  bottom: 30px;
+}
+
+.design-skill {
+  position: relative;
+  left: 100px;
+}
+
+#design {
+  position: relative;
+  left: 120px;
+  text-align: left;
+}
+
+#develop {
+  position: relative;
+  right: 45px;
+  text-align: left;
+}
+
+.design-text {
+  text-align: left;
+  position: relative;
+  left: 120px;
+}
+
+.designicon {
+  position: relative;
+  right: 200px;
+}
+
+.develop-text {
+  text-align: left;
+  position: relative;
+  right: 100px;
+}
+
+.button {
+  webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  text-shadow: 0 1px px #595459;
+  font-family:Montserrat;
+  color: #ffffff;
+  font-size: 21px;
+  background: #1e836c;
+  padding: 11px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #6dc2ad;
+  background-image: -webkit-linear-gradient(top, #6dc2ad, #2e9e51);
+  background-image: -moz-linear-gradient(top, #6dc2ad, #2e9e51);
+  background-image: -ms-linear-gradient(top, #6dc2ad, #2e9e51);
+  background-image: -o-linear-gradient(top, #6dc2ad, #2e9e51);
+  background-image: linear-gradient(to bottom, #6dc2ad, #2e9e51);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #e0ebe8;
+  padding: 50px;
+  padding-right: 10px;
+  margin: -25px;
+}
+
+.contact-text {
+  width: 650px;
+  text-align: center;
+  margin: auto;
+}
+
+a{
+  margin: 30px 50px 10px 50px;
+}
+
+a:hover{
+  color:#000000;
+}
+
+.copyright
+{
+  color:#A9A9A9;
+  font-size:0.9rem;
+  padding-top:20px;
+}
+copyright:hover
+{
+  color:#32CD32;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #45B29A;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
